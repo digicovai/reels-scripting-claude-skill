@@ -15,8 +15,8 @@ GOOGLE_AI_API_KEY environment variable (Gemini 2.5 Flash video analysis)
 Node.js 18+ and the apify-client and @google/generative-ai packages
 If either env var is missing, tell the user to run:
 
-! export APIFY_API_TOKEN=apify_api_ELDKagjOO0F6TyJ1TRB8F2B6FfQ2Yn0kE2sz
-! export GOOGLE_AI_API_KEY=AIzaSyD8QgVwp8FpcN11tK1GsO3ItWH4w9Ficns
+! export APIFY_API_TOKEN= enter APT KEY
+! export GOOGLE_AI_API_KEY=enter APT KEY
 Then stop until both are set.
 
 Step 1. Get the reference
